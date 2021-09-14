@@ -1,1 +1,1 @@
-# MaytropaApp
+#  STS projects management
